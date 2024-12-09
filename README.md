@@ -6,11 +6,12 @@ A transformer-based deep learning model that predicts NBA game outcomes by analy
 This project uses PyTorch to build and train transformer networks capable of predicting the final scores for NBA matchups. Player-level statistics and dynamically learned embeddings are integrated to model relationships between players and teams.
 
 ## **How to Use**  
-- Clone the repository to your local machine.  
+- Clone the repository to your local machine.
+- DATA HAS ALREADY BEEN COLLECTED AND CLEANED - FEEL FREE TO BEGIN FROM SECTION II
 - Run through the provided LineupLab **Jupyter Notebook** to:  
    - Explore the data preprocessing steps.  
    - Understand the model architecture and logic.  
-   - Reproduce training, validation, and testing processes.  
+   - Reproduce training, validation, and testing processes.
 
 ## **Requirements**  
 - Python 3.8+  
